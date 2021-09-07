@@ -18,7 +18,10 @@ turtle.left(90)
 turtle.penup()
 turtle.forward(120)
 turtle.pendown()
-
+turtle.penup()
+turtle.forward(85)
+turtle.pendown()
+turtle.circle(50)
 
 turtle.exitonclick()
 
